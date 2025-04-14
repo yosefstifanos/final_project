@@ -31,7 +31,7 @@ This project applies both linear and logistic regression techniques to a dataset
 
 ## 📂 Files Included
 
-- `project_3_possible.ipynb`: Final Jupyter Notebook containing full analysis.
+- `project_03_possible.ipynb`: Final Jupyter Notebook containing full analysis.
 - `video_games.csv`: Source dataset (encoded for compatibility).
 - `README.md`: Project overview and setup.
 
